@@ -1,0 +1,12 @@
+2.1 Git
+En el año 2005 la comunidad de Linux, y en particular Linus Torvalds, comenzaron el desarrollo de su propio manejador de versiones, porque la empresa que proveia el manejador de versiones anterior (BitKeeper) decidio dejar de ofrecercelos gratuitamente. Para su desarrollo se siguieron las siguientes premisas:
+Velocidad
+Diseño sencillo
+Fuerte apoyo al desarrollo no lineal (miles de ramas paralelas)
+Completamente distribuido
+Capaz de manejar grandes proyectos como el núcleo de Linux de manera eficiente (velocidad y tamaño de los datos)
+( http://git-scm.com/book/es/Empezando-Una-breve-historia-de-Git )
+
+La principal diferencia de Git, y por lo tanto GitHub, con otros manejadores de versiones es que este guarda instantaneas no diferencias. Para explicarlo en forma sencilla podemos decir que Git guarda copias de los archivos que vamos modificando, otros, como SVN Subversion, guardan los nuevos datos como modificaciones al archivo existente.
+
+Otro puntos fuertes de Git es que casi toda operacion es local, al tener siempre una version actualizada del repositorio en nuestra pc, no necesitamos esperar a que se descarguen archivos para comenzar a trabajar. 
