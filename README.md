@@ -3,7 +3,7 @@ SNE-UPE
 
 Repositorio de prueba para la materia Software y los nuevos escenarios de la UPE.
 
-El preente repositorio se creo como prueba funcional de GitHub para el trabajo final de la materia Software y los nuevos escenarios dictada en la Universidad Provincial de Ezeiza para la carrera Tecnicatura Universitaria en Desarrollo de Software.
+El presente repositorio se creo como prueba funcional de GitHub para el trabajo final de la materia Software y los nuevos escenarios dictada en la Universidad Provincial de Ezeiza para la carrera Tecnicatura Universitaria en Desarrollo de Software.
 
 Alumnos: Enciso Villalba, Daniel Salinas, Elias, Lescano, Fernando
 
