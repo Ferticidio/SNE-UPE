@@ -7,8 +7,6 @@ El presente repositorio se creo como prueba funcional de GitHub para el trabajo 
 
 Alumnos: Enciso Villalba Daniel, Salinas Elias, Lescano Fernando
 
-Docentes: 
-Dios sabra!!!
+Docentes: Daniel Sarachaga, Sebastian Valle
+
 Año: 2013
-Jefe esa correcion es automatica??
-escrivir
