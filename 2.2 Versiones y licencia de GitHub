@@ -3,6 +3,8 @@ GitHub tiene Versiones gratuitas y de pago. Las gratuitas no tienen soporte para
 
 Las versiones de pago (que son varias) incluyen, ademas de poder tener repositorios privados, algunas mejoras, como mas espacio de almacenamiento. 
 
-GitHub es un desarrollo privado, no comparte su codigo fuente (creo), lo cual es un oximoron ya que se utiliza para grandes desarrollos de codigo abierto. 
+GitHub es un desarrollo privado, no comparte su codigo fuente1, lo cual es un oximoron ya que se utiliza para grandes desarrollos de codigo abierto. 
 
 Debemos tener en cuenta que el corazon de GitHub es de codigo abierto. Ya que esta basado en Git.
+
+1 http://tom.preston-werner.com/2011/11/22/open-source-everything.html (explica el porque)
