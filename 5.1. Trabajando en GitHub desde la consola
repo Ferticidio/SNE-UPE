@@ -1,0 +1,84 @@
+5.1. Trabajando en GitHub desde la consola
+Ya sea porque no sentimos mas comodos desde la consola, porque tenemos linux y no queremos una interfaz grafica o simplemente porque nos parece que la consola nos permite ser mucho mas eficientes, es importante saberse los comandos para trabajar con GitHub desde alli. Estos comandos de los que hablaremos son los de Git, que, como sabemos, es el verdadero repositorio. 
+
+En Linux es muy facil instalar Git (que lo necesitamos para comunicarnos con GitHub). Desde Debian (y sus derivados) es tan sencillo como abrir la terminal y escribir:
+
+$ apt-get install git-core
+
+Tanto para Windows como para Mac disponemos de la version grafica de github, que ademas viene con un shell a eleccion. De esta forma no necesitamos utilizar comandos para tener todo listo para funcionar. Tampoco tenemos necesidad de configurarlo ni de generar las claves ssh ya que de eso se encarga el instalador. En linux debemos utilizar los siguientes comandos:
+
+    $ git config --global user.name "Usuario" 
+$ git config --global user.email "tuemail@dominio.com"
+    $ ssh-keygen -t rsa -C “tuemail@dominio.com”
+
+Luego de eso visualizaremos la clave SSH, debemos copiarla y agregarla en GitHub mediante la web, dentro de la seccion de accounts settings. 
+
+Solo nos queda iniciar el repositorio. Primero lo creamos en GitHub desde la interfaz web. Luego en la terminal nos ubicamos en la carpeta donde lo vamos a alojar y escribimos:
+    
+    $ git init
+
+Con estos comandos ya estamos listos para trabajar… Ahora podemos crear los archivos y agregarlos al repositorio. Supongamos que creamos el archivo readme.md. Luego en la terminal escribimos:
+    
+    $ git add readme.md
+
+Luego debemos hacer el commit, que es poco mas que dejar un comentario sobre las modificaciones que hicimos sobre el fichero.  El comando seria:
+
+    $ git commit -m “Comentario sobre la tarea realizada”
+
+Solo nos queda hacer el “push” desde local al repositorio de github. Para ello primero debemos conectar los dos repositorios, esto se hace solo la primera vez, luego nos queda conectado y solo debemos hacer el push. El comando es:
+
+    $ git remote add origin git@github.com:pathdelrepositorio.git
+
+Por ultimo nos queda el push:
+
+    $ git push origin master
+
+Con esto ya tenemos subidos los cambios al repositorio global. 
+
+Otros comandos interesantes de saber son los que nos permiten manejarnos con las ramas (branchs)
+
+    # Crear un branch
+$ git branch nombre_del_branch
+
+# Cambiarse de branch (para trabajar en una rama especifica)
+$ git checkout nombre_del_brach
+
+# Ver los branchs del proyecto
+$ git branch 
+
+# Haciendo merge de branchs.
+# Situados en el branch principal
+
+$ git merge Nombre_Del_Branch_Aunificar
+
+Desde la terminal podemos acceder a la ayuda y ver varios comandos más con una breve explicacion de lo que hacen.
+
+usage: git [--version] [--exec-path[=]] [--html-path] [--man-path] [--info-path]
+           [-p|--paginate|--no-pager] [--no-replace-objects] [--bare]
+           [--git-dir=] [--work-tree=] [--namespace=]
+           [-c name=value] [--help]
+           command [args]
+
+The most commonly used git commands are:
+
+   add        Add file contents to the index
+   bisect     Find by binary search the change that introduced a bug
+   branch     List, create, or delete branches
+   checkout   Checkout a branch or paths to the working tree
+   clone      Clone a repository into a new directory
+   commit     Record changes to the repository
+   diff       Show changes between commits, commit and working tree, etc
+   fetch      Download objects and refs from another repository
+   grep       Print lines matching a pattern
+   init       Create an empty git repository or reinitialize an existing one
+   log        Show commit logs
+   merge      Join two or more development histories together
+   mv         Move or rename a file, a directory, or a symlink
+   pull       Fetch from and merge with another repository or a local branch
+   push       Update remote refs along with associated objects
+   rebase     Forward-port local commits to the updated upstream head
+   reset      Reset current HEAD to the specified state
+   rm         Remove files from the working tree and from the index
+   show       Show various types of objects
+   status     Show the working tree status
+   tag        Create, list, delete or verify a tag object signed with GPG
