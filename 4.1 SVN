@@ -1,1 +1,34 @@
 4.1 SVN
+
+(resumen de SVN)SVN o Subversión, es un sistema de control de revisiones de código abierto
+ y multiplataforma. Se basa en un repositorio central: es como un servidor 
+de archivos pero con la peculiaridad de que recuerda todos los cambios que 
+se hayan hecho a sus archivos y directorios. De este modo se puede volver 
+a versiones antiguas de sus archivos y ver quién y cuándo se hicieron los 
+cambios. Su página web es http://subversion.apache.org  y está distribuido 
+bajo licencia Apache.
+
+Un resumen de las diferencias
+	Git es mucho más rápido que Subversión.
+	Repositorios de Git son mucho menores que Subversiones (para el 
+	proyecto Mozilla, 30x más pequeña).
+	Git fue diseñado para ser distribuido completamente desde el 
+	principio, por lo que cada desarrollador tiene control local completo.
+	Ramas de Git son más simples y menos pesadas que el recurso de 
+	Subversión.
+	Ramas Git llevan toda su historia.
+	La fusión de Git no requiere que usted recuerde en que revisión realizó 
+	una fusión (este beneficio se evita con el lanzamiento de Subversión 1.5).
+	Git proporciona una mejor auditoría de eventos de ramificación y fusión.
+	Formatos de archivo de Git repo son simples, por lo que la reparación es 
+	fácil y la corrupción es poco frecuente.
+	Copia de seguridad de los repositorios de Subversión central es 
+	potencialmente más fácil - ya que se puede elegir las carpetas distribuidas
+	dentro de un repositorio de git.
+	Git clona sus repositorios para que actúen como repositorio de backups 
+	completos.
+	Interfaz de usuario de Subversión es más maduro que el de Git.
+	Avanzar de versión en versión, es más simple en Subversión, ya que utiliza 
+	números de revisión secuencial (1, 2, 3, ... ); Git utiliza impredecibles 
+	SHA-1 hash. Volver a una versión anterior en Git es fácil usando la 
+	sintaxis "^", pero no hay manera fácil de caminar hacia adelante.
