@@ -31,4 +31,4 @@ Un resumen de las diferencias
 	Avanzar de versión en versión, es más simple en Subversión, ya que utiliza 
 	números de revisión secuencial (1, 2, 3, ... ); Git utiliza impredecibles 
 	SHA-1 hash. Volver a una versión anterior en Git es fácil usando la 
-	sintaxis "^", pero no hay manera fácil de caminar hacia adelante.
+	sintaxis "^", pero no hay manera fácil de ir hacia adelante.
