@@ -1,10 +1,12 @@
-2. �Que es GitHub?
-En un principio el control de versiones, que es la tarea principal de GitHub, se realizaba de manera manual. Una de las soluciones mas sencillas que se realizaban era la de crear directorios para cada actualizacion, aunque funcionaba, tenia muchos problemas, ya que era propenso a errores humanos, sobreescribiendo archivos que no se deseaba por ejemplo.
+2. �Que es GitHub?
+GitHub es, básicamente, una capa de software de código cerrado que funciona sobre una implementación de Git (un manejador de versiones de código abierto). Git viene a ser la evolución de los repositorios y GitHub viene a ser una forma mucho más amigable de acceder a un repositorio Git.
 
-Algunos desarrolladores crearon diferentes manejadores de versiones locales, que era poco mas que una base de datos donde se registraban los cambios que se realizaban en los archivos. Dichos sistemas estaban instalados localmente.
+En un principio el control de versiones, que es la tarea principal de GitHub, se realizaba de manera manual. Una de las soluciones mas sencillas que se realizaban era la de crear directorios para cada actualizacion, aunque funcionaba, tenia muchos problemas, ya que era propenso a errores humanos, sobreescribiendo archivos que no se deseaba por ejemplo. 
 
-El siguiente paso fue el de los manejadores de versiones centralizados, donde los desarrolladores descargan los archivos con los que van a trabajar y luegos los suben. Sin dudas es una ventaja, pero tiene algunos incovenientes. El trabajo depende totalmente de un servidor central.
+Algunos desarrolladores crearon diferentes manejadores de versiones locales, que era poco más que una base de datos donde se registraban los cambios que se realizaban en los archivos. Dichos sistemas estaban instalados localmente. 
 
-El ultimo avance fue el de los manejadores de versiones distribuidos. Donde los usuarios no bajan unicamente los archivos para trabajar sino que bajan todo la base de datos del servidor. Esto trae varias mejores en cuanto a tiempo de respuesta y tolerancia a fallos.
+El siguiente paso fue el de los manejadores de versiones centralizados, donde los desarrolladores descargan los archivos con los que van a trabajar y luegos los suben. Sin dudas es una ventaja, pero tiene algunos inconvenientes. El trabajo depende totalmente de un servidor central.
 
-Uno de estos sistemas es Git. Y dentro de su universo tenemos GitHub, que seria utilizar Git sin necesidad de instalarlo, configurarlo y administrarlo.
+El último avance fue el de los manejadores de versiones distribuidos. Donde los usuarios no bajan únicamente los archivos para trabajar sino que bajan todo la base de datos del servidor. Esto trae varias mejoras en cuanto a tiempo de respuesta y tolerancia a fallos. 
+
+Uno de estos sistemas es Git. Y dentro de su universo tenemos GitHub, que sería utilizar Git sin necesidad de instalarlo, configurarlo y administrarlo.
