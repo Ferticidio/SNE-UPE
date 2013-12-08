@@ -1,10 +1,7 @@
 2.2 Versiones y licencia de GitHub
-GitHub tiene Versiones gratuitas y de pago. Las gratuitas no tienen soporte para repositorios privados, por lo que el desarrollo es visible para todo el mundo. Al momento de crear un repositorio podemos elegir que tiempo de licencia queremos para el. De no elegir una licencia nuestro desarrollo quedaria cubierto por las leyes de copyright, aunque en la practica seria un desarrollo codigo abierto. 
+GitHub tiene versiones gratuitas y de pago. Las gratuitas no tienen soporte para repositorios privados, por lo que el desarrollo es visible para todo el mundo. Al momento de crear un repositorio podemos elegir qué tiempo de licencia queremos para él. De no elegir una licencia nuestro desarrollo quedaría cubierto por las leyes de copyright, aunque en la práctica seria un desarrollo código abierto o incluso de dominio público. 
+Las versiones de pago (que son varias) incluyen, además de poder tener repositorios privados, algunas mejoras, como más espacio de almacenamiento o instalaciones locales de GitHub en un servidor particular.
+GitHub es un desarrollo privado, no comparte su código fuente , lo cual es un oxímoron ya que se utiliza para grandes desarrollos de código abierto. Aunque en la página web que se hace referencia explica perfectamente el porqué de esta situación. 
+Debemos tener en cuenta que el corazón de GitHub es de código abierto ya que está basado en Git. Y que varios de los desarrollos alrededor de GitHub son también de código abierto. 
 
-Las versiones de pago (que son varias) incluyen, ademas de poder tener repositorios privados, algunas mejoras, como mas espacio de almacenamiento. 
-
-GitHub es un desarrollo privado, no comparte su codigo fuente1, lo cual es un oximoron ya que se utiliza para grandes desarrollos de codigo abierto. 
-
-Debemos tener en cuenta que el corazon de GitHub es de codigo abierto. Ya que esta basado en Git.
-
-1 http://tom.preston-werner.com/2011/11/22/open-source-everything.html (explica el porque)
+1 http://tom.preston-werner.com/2011/11/22/open-source-everything.html
