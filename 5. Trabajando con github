@@ -1,11 +1,7 @@
-5. Trabajando con github
-Para realizar este documento se decidio utilizar GitHub para demostrar toda la potencialidad que un sistema como este posee. Este repositorio quedara online para su consulta posterior pudiendo, ademas de ver el contenido de los documentos, ver como evoluciono el proyecto y como se interralaciono el grupo de trabajo, y como se explotaron las funcionalidades de github. 
-Para ello cada uno de los miembros se registro en el sitio y se creo una organizacion donde se alojo el repositorio. Luego cada uno se instalo la aplicacion para windows para poder trabajar en local. 
-
-La forma de trabajo es muy sencilla. Se crea un archivo en local. Se agrega al repositorio local y luego se hace un push al repositorio general para que ese archivo sea visible por todos. 
-
-En las modificaciones se trabaja de forma identica, se modifica el archivo original, dichos cambios quedan registrados en el repositorio local. Para luego registrarse en el general cuando se hace un push. 
-
-Estas dos tareas son las principales a la hora de trabajar con GitHub. Luego debemos saber que se puede comentar (y es conveniente hacerlo) comentar cuando se suben los cambios. Pudiendo generarse un hilo de discusion por cada push. Esto ultimo nos parece de gran utilidad ya que permite que todo el equipo se involucre en el desarrollo de cada pequeña funcionalidad. 
-
-Una de las funcionalidades mas interesantes es la de crear ramas o branches. Estos branches serian funcionalidades que en algun momento se pueden agregar al desarrollo (el branch principal o master). Pudiendo luego hacer un merge e incorparar esas funcionalidades (o en nuestro caso texto) a la rama principal del desarrollo.
+5. Trabajando con GitHub
+Para realizar este documento se decidió utilizar GitHub para demostrar toda la potencialidad que un sistema como este posee. Este repositorio quedara online para su consulta posterior pudiendo, además de ver el contenido de los documentos, ver como evoluciono el proyecto y como se interrelaciono el grupo de trabajo, y como se explotaron las funcionalidades de GitHub. 
+Para ello cada uno de los miembros se registro en el sitio y se creó una organización donde se alojo el repositorio. Luego cada uno se instalo la aplicación para Windows para poder trabajar en local. 
+La forma de trabajo es muy sencilla. Se crea un archivo en local. Se agrega al repositorio local y luego se hace un “push” al repositorio general para que ese archivo sea visible por todos. 
+En las modificaciones se trabaja de forma idéntica, se modifica el archivo original, dichos cambios quedan registrados en el repositorio local. Para luego registrarse en el general cuando se hace un push. 
+Estas dos tareas son las principales a la hora de trabajar con GitHub. Luego debemos saber que se puede comentar (y es conveniente hacerlo) cuando se suben los cambios. Pudiendo generarse un hilo de discusión por cada push. Esto último nos parece de gran utilidad ya que permite que todo el equipo se involucre en el desarrollo de cada pequeña funcionalidad. 
+Una de las funcionalidades más interesantes es la de crear ramas o “branches”. Estos branches serian funcionalidades que en algún momento se pueden agregar al desarrollo (el branch principal o master). Pudiendo luego hacer un “merge” e incorporar esas funcionalidades (o en nuestro caso texto) a la rama principal del desarrollo.
