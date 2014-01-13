@@ -1,4 +1,4 @@
-﻿2. ¿Qué es GitHub?
+2. ¿Qué es GitHub?
 En un principio el control de versiones, que es la tarea principal de GitHub, se realizaba de manera manual. Una de las soluciones más sencillas que se realizaban era la de crear directorios para cada actualización, aunque funcionaba, tenía muchos problemas, ya que era propenso a errores humanos, sobrescribiendo archivos que no se deseaba por ejemplo.
 Algunos desarrolladores crearon diferentes manejadores de versiones locales, que era poco más que una base de datos donde se registraban los cambios que se realizaban en los archivos. Dichos sistemas estaban instalados localmente.
 El siguiente paso fue el de los manejadores de versiones centralizados, donde los desarrolladores descargan los archivos con los que van a trabajar y luego los suben. Sin dudas es una ventaja, haciendo más fácil el trabajo en equipo, pero tiene algunos inconvenientes. El principal es que el trabajo depende totalmente de un servidor central.
