@@ -1,4 +1,4 @@
-﻿3. Aplicaciones de GitHub
+3. Aplicaciones de GitHub
 GitHub es una aplicación eminentemente web. Pueden realizarse todas las tareas desde la web sin ningún problema, aunque estaríamos desperdiciando gran parte de su potencial. Ese desperdicio se debe a que tenemos unas cuantas aplicaciones que nos permiten “sincronizarnos” con el repositorio y trabajar de manera local. 
 El primero de ellos es el shell. Podemos trabajar con la consola típica de Windows (cmd), power shell o git bash. La funcionalidad en todos ellos es la misma. Tenemos una serie de comandos que nos permiten trabajar con el repositorio. Podemos crear repositorios, archivos, descargar el repositorio (hacer un clone), subir cambios (hacer commits/push) y otras tareas que veremos dentro de su sección. 
 GitHub además nos ofrece aplicaciones tanto para Windows como para Mac que nos proveen de un entorno grafico donde realizar las tareas. Estas aplicaciones nos permiten hacer lo mismo que el entorno de la línea de comandos y algunas cosas más que de otra manera tendríamos que hacerlas vía web, por ejemplo ver los cambios de un archivo. 
