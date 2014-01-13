@@ -1,4 +1,4 @@
-﻿2.1 Git
+2.1 Git
 En el año 2005 la comunidad de Linux, y en particular Linus Torvalds, comenzó el desarrollo de su propio manejador de versiones, porque la empresa que proveía el manejador de versiones anterior (BitKeeper) decidió dejar de ofrecérselos gratuitamente. Para su desarrollo se siguieron las siguientes premisas :
 •	Velocidad
 •	Diseño sencillo
