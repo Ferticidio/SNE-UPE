@@ -1,4 +1,4 @@
-﻿5.1. Trabajando en GitHub desde la consola
+5.1. Trabajando en GitHub desde la consola
 Ya sea porque no sentimos más cómodos desde la consola, porque tenemos Linux y no queremos una interfaz grafica o simplemente porque nos parece que la consola nos permite ser mucho más eficientes, es importante saberse los comandos para trabajar con GitHub desde allí. Estos comandos de los que hablaremos son los de Git, que, como sabemos, es el verdadero repositorio. 
 En Linux es muy fácil instalar Git (que lo necesitamos para comunicarnos con GitHub). Desde Debian (y sus derivados) es tan sencillo como abrir la terminal y escribir:
 $ apt-get install git-core
