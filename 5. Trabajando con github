@@ -1,4 +1,4 @@
-﻿5. Trabajando con GitHub
+5. Trabajando con GitHub
 Para realizar este documento se decidió utilizar GitHub para demostrar toda la potencialidad que un sistema como este posee. Este repositorio quedara online para su consulta posterior pudiendo, además de ver el contenido de los documentos, ver como evoluciono el proyecto y como se interrelaciono el grupo de trabajo, y como se explotaron las funcionalidades de GitHub. 
 Para ello cada uno de los miembros se registró en el sitio y se creó una organización donde se alojó el repositorio. Luego cada uno se instaló la aplicación para Windows para poder trabajar en local. 
 La forma de trabajo es muy sencilla. Se crea un archivo en local. Se agrega al repositorio local y luego se hace un “push” al repositorio general para que ese archivo sea visible por todos. 
