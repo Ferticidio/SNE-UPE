@@ -1,4 +1,4 @@
-﻿Introducción
+1. Introducción
 Hoy en día que el desarrollo de software esta más relacionado con las ciencias sociales que con la ingeniería, hacen falta herramientas que nos permitan trabajar en ambientes cambiantes como son todos los afectados por dichas ciencias. Aunque el desarrollo de software siempre estuvo pensado como una ingeniera (o similares), la verdad es que además de sus conceptos duros tiene mucho de arte y de relaciones interpersonales.
 Uno de los puntos importantes a tener en cuenta en los ambientes sociales es el continuo cambio de paradigmas. Una persona que hoy es tu amigo mañana pasa a ser solo un recuerdo. Una persona que ayer te dijo una cosa hoy te dice todo lo contrario. En el ambiente del desarrollo pasan estas cosas. Hace falta controlar todo lo que sucede.
 Para paliar con este tipo de situaciones surgieron varios modelos de desarrollo: los métodos agiles y el proceso unificado son algunos de ellos. Estos métodos de desarrollo son en su mayoría iterativos e incrementales. Es decir entregas periódicas de software, cada una con características añadidas.
