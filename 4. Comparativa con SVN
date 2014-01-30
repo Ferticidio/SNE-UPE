@@ -1,4 +1,4 @@
-﻿4.1 SVN
+﻿4. Comparativa con SVN
 
 SVN o Subversión, es un sistema de control de versiones de código abierto y multiplataforma. Se basa en un repositorio central: es como un servidor de archivos, pero con la peculiaridad de que recuerda todos los cambios que se hayan hecho a sus archivos y directorios. De este modo se puede volver a versiones antiguas de sus archivos y ver quién y cuándo se hicieron los cambios. Su página web es http://subversion.apache.org  y está distribuido bajo licencia Apache.
 Diferencias entre GitHub y SVN:
